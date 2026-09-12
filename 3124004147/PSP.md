@@ -17,3 +17,4 @@
 | · Postmortem & Process Improvement Plan 总结改进 | 20       |          |
 | **合计**                                       | 395      |          |
 增加文本预处理模块
+增加中英文分词功能
